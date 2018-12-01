@@ -1,6 +1,6 @@
 # Advent Of Code 2018 in clojure
 
-clojure solutions for [https://adventofcode.com/2018/](advent of code 2018)
+clojure solutions for (https://adventofcode.com/2018/)[advent of code 2018]
 
 ## Usage
 
